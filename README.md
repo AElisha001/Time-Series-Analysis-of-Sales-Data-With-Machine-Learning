@@ -56,31 +56,6 @@ jupyter notebook sales_forecasting_example.ipynb
 
 ---
 
-## 📂 Project Structure
-
-```plaintext
-Time-Series-Analysis-of-Sales-Data-With-Machine-Learning/
-│
-├── data/                           # Data directory (add your CSV here)
-│   └── rossmann_sales.csv
-│
-├── notebooks/
-│   └── sales_forecasting_example.ipynb     # Main notebook with experiments
-│
-├── scripts/
-│   ├── preprocess.py              # Data cleaning and feature engineering
-│   ├── train_xgboost.py           # Model training and evaluation
-│   └── utils.py                   # Helper functions
-│
-├── figures/
-│   └── sales_forecast_comparison.png       # Forecast visualization
-│
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 📈 Results Summary
 
 | Model    | MAE     | RMSE    |
